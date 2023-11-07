@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    margin: 4px;
+}
+
+p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 37px;
+}
+
+main {
+    padding: 100px;
+    width: 700px;
+    margin: auto; 
+    color: rgb(120, 223, 197)
+    
+}
+
+.btn {
+    display: inline-block;
+    margin: 38px;
+    font-size: 23px;
+    box-shadow: 3px 3px 5px #7ebb97;
+    background-color: azure;
+}
